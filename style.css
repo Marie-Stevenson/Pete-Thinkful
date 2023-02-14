@@ -37,9 +37,7 @@ p {
   line-height: 1.5;
 }
 
-ul{
-  text-align:left;
-}
+ul{text-align: left;}
 
 
 /* The div container constrains the content width within the main container to 600px */
